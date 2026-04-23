@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Transparencia Escolar</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f4f6f8;
+    }
+    header {
+      background: #2c3e50;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+      margin: 15px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #2c3e50;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+    }
+    table, th, td {
+      border: 1px solid #ddd;
+    }
+    th, td {
+      padding: 10px;
+      text-align: center;
+    }
+    th {
+      background: #3498db;
+      color: white;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: #2c3e50;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Transparencia Escolar</h1>
+  <p>Información clara sobre procesos y recursos</p>
+</header>
+
+<section>
+  <h2>📄 Procesos Institucionales</h2>
+  <p>Aquí puedes encontrar información sobre actividades, proyectos y decisiones escolares.</p>
+  <ul>
+    <li>Reuniones estudiantiles</li>
+    <li>Proyectos en curso</li>
+    <li>Decisiones del consejo estudiantil</li>
+  </ul>
+</section>
+
+<section>
+  <h2>💰 Recaudación de Dinero</h2>
+  <table>
+    <tr>
+      <th>Actividad</th>
+      <th>Dinero Recaudado</th>
+    </tr>
+    <tr>
+      <td>Venta de dulces</td>
+      <td>$200,000</td>
+    </tr>
+    <tr>
+      <td>Rifa escolar</td>
+      <td>$500,000</td>
+    </tr>
+  </table>
+</section>
+
+<section>
+  <h2>📊 Uso del Dinero</h2>
+  <table>
+    <tr>
+      <th>Concepto</th>
+      <th>Gasto</th>
+    </tr>
+    <tr>
+      <td>Materiales escolares</td>
+      <td>$300,000</td>
+    </tr>
+    <tr>
+      <td>Eventos</td>
+      <td>$150,000</td>
+    </tr>
+  </table>
+</section>
+
+<footer>
+  <p>Actualizado por el Consejo Estudiantil</p>
+</footer>
+
+</body>
+</html>
